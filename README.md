@@ -12,6 +12,7 @@ Can be installed from R using:
 Examples can then be found using:
 
 &nbsp;&nbsp;library("NLTS")
+
 &nbsp;&nbsp;?NLTS
 
 
