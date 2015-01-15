@@ -1,19 +1,19 @@
-NLTS
+Description
 ====
+NLTS
 
-Nonlinear time series methods (Simplex + Smap) in R
+* Nonlinear time series methods (Simplex + Smap) in R
+
+Instructions
+=============
 
 Can be installed from R using:
 
-&nbsp;&nbsp;library("devtools")
-
-&nbsp;&nbsp;install_github("James-Thorson/NLTS")
+    install.packages("devtools")
+    devtools::install_github("James-Thorson/NLTS")
 
 Examples can then be found using:
 
-&nbsp;&nbsp;library("NLTS")
-
-&nbsp;&nbsp;?NLTS
-
-
+    library("NLTS")
+    ?NLTS
 
